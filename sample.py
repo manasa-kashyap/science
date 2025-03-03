@@ -1,1 +1,1 @@
-print("data science")
+print("data maths")
