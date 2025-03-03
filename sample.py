@@ -1,1 +1,1 @@
-print("data english")
+print("learning")
