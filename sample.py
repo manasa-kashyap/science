@@ -1,1 +1,1 @@
-print("machine learning")
+print("ai")
