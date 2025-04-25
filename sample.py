@@ -1,1 +1,1 @@
-print("ai")
+print("Data science")
